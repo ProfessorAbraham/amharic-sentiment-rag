@@ -1,0 +1,12 @@
+transformers
+datasets
+sentence-transformers
+langdetect
+pandas
+scikit-learn
+faiss-cpu
+streamlit
+youtube-comment-downloader
+clean-text
+google-auth
+huggingface_hub
